@@ -1,4 +1,4 @@
-# AISD Poverty Prediction – Kaduna Context (UCL MSc AI for Sustainable Development)
+# AISD Poverty Prediction – Nigeria Context (UCL MSc AI for Sustainable Development)
 
 This repository contains the code used to generate the results presented in my coursework poster:
 
