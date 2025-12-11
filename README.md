@@ -50,9 +50,9 @@ matplotlib
 
 Tested in Google Colab 
 
-📊 Poster Link
+📊 Poster
 
-Outputs from these notebooks (figures, performance metrics, and comparison tables) appear in the accompanying poster for:
+Outputs from these notebooks (figures,and performance metrics) appear in the accompanying poster for:
 
 Coursework 2 — AI for Sustainable Development, UCL
 
